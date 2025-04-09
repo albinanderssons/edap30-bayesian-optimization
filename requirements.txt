@@ -1,0 +1,8 @@
+botorch
+numpy
+scipy
+matplotlib
+jupyterlab
+datasets
+torchvision
+seaborn
